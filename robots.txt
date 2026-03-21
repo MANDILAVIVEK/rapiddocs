@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mandilavivek.github.io/rapiddocs/sitemap.xml
